@@ -1,0 +1,12 @@
+{'pitchfork':{
+            '2023':
+                {'50_best_albums':{
+                            'url':'https://pitchfork.com/features/lists-and-guides/best-albums-2023/',
+                            'left_label':'\d{1,2}\.</div><h2>',
+                            'right_label':'</em></h2>',
+                            'splitter_pos_art':'.</div><h2>',
+                            'splitter_art_alb':': <em>'
+                                    }
+                }
+            }
+}
